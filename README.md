@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @narender2coder
+- 👋 Hi, I’m @narenderKumar
 - 👀 I’m interested in GOOGLE
 - 🌱 I’m currently learning FULL STACK
 
